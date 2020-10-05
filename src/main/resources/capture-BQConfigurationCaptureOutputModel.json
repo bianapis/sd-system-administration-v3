@@ -1,0 +1,16 @@
+{
+  "configurationSystemsConfigurationAdministrationServiceWorkProduct" : "configurationSystemsConfigurationAdministrationServiceWorkProduct",
+  "configurationSystemsConfigurationAdministrationServiceName" : "configurationSystemsConfigurationAdministrationServiceName",
+  "systemsConfigurationAdministration" : "systemsConfigurationAdministration",
+  "configurationCaptureActionTaskReference" : "CCATR784207",
+  "configurationPostconditions" : "configurationPostconditions",
+  "configurationPreconditions" : "configurationPreconditions",
+  "configurationBusinessUnitEmployeeReference" : "CBUR729483",
+  "configurationCaptureActionTaskRecord" : {},
+  "configurationWorkSchedule" : "configurationWorkSchedule",
+  "configurationSystemsConfigurationAdministrationServiceInputsandOuputs" : "configurationSystemsConfigurationAdministrationServiceInputsandOuputs",
+  "configurationCaptureRecordReference" : "CCRR743501",
+  "configurationSystemsConfigurationAdministrationServiceType" : "configurationSystemsConfigurationAdministrationServiceType",
+  "configurationSystemsConfigurationAdministrationServiceDescription" : "configurationSystemsConfigurationAdministrationServiceDescription",
+  "captureResponseRecord" : {}
+}

@@ -1,0 +1,39 @@
+{
+  "systemAdministrationRetrieveActionTaskReference" : "SRATR795161",
+  "systemAdministrationRetrieveActionRecord" : {
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "systemAdministrationActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    },
+    "systemAdministrationPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    }
+  },
+  "systemAdministrationRetrieveActionResponse" : "systemAdministrationRetrieveActionResponse",
+  "systemAdministrationOfferedService" : {
+    "systemAdministrationServiceReference" : "776158",
+    "systemAdministrationServiceRecord" : {
+      "systemAdministrationServiceDescription" : "systemAdministrationServiceDescription",
+      "systemAdministrationServiceVersion" : "systemAdministrationServiceVersion",
+      "systemAdministrationServiceType" : "systemAdministrationServiceType",
+      "systemAdministrationServiceSchedule" : "systemAdministrationServiceSchedule",
+      "systemAdministrationServicePoliciesandGuidelines" : {
+        "systemAdministrationServiceEligibility" : "systemAdministrationServiceEligibility",
+        "systemAdministrationServiceIntendedUses" : "systemAdministrationServiceIntendedUses",
+        "systemAdministrationServicePricingandTerms" : "systemAdministrationServicePricingandTerms"
+      }
+    }
+  },
+  "systemAdministrationRetrieveActionTaskRecord" : {}
+}

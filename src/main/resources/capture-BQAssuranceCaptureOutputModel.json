@@ -1,0 +1,16 @@
+{
+  "assuranceCaptureActionTaskReference" : "ACATR714777",
+  "assuranceCollateralItemAssuranceServiceDescription" : "assuranceCollateralItemAssuranceServiceDescription",
+  "assuranceWorkSchedule" : "assuranceWorkSchedule",
+  "assuranceBusinessUnitEmployeeReference" : "ABUR724260",
+  "assuranceCaptureActionTaskRecord" : {},
+  "assuranceCollateralItemAssuranceServiceWorkProduct" : "assuranceCollateralItemAssuranceServiceWorkProduct",
+  "assurancePreconditions" : "assurancePreconditions",
+  "assuranceCollateralItemAssuranceServiceInputsandOuputs" : "assuranceCollateralItemAssuranceServiceInputsandOuputs",
+  "assuranceCollateralItemAssuranceServiceName" : "assuranceCollateralItemAssuranceServiceName",
+  "assuranceCaptureRecordReference" : "ACRR749390",
+  "collateralItemAssurance" : "collateralItemAssurance",
+  "assuranceCollateralItemAssuranceServiceType" : "assuranceCollateralItemAssuranceServiceType",
+  "assurancePostconditions" : "assurancePostconditions",
+  "captureResponseRecord" : {}
+}

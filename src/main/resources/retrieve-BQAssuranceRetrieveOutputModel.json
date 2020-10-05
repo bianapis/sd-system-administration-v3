@@ -1,0 +1,27 @@
+{
+  "assuranceCollateralItemAssuranceServiceDescription" : "assuranceCollateralItemAssuranceServiceDescription",
+  "assuranceRetrieveActionTaskReference" : "ARATR754681",
+  "assuranceWorkSchedule" : "assuranceWorkSchedule",
+  "assuranceBusinessUnitEmployeeReference" : "ABUR729075",
+  "assuranceInstanceReport" : {
+    "assuranceInstanceReportParameters" : "assuranceInstanceReportParameters",
+    "assuranceInstanceReportRecord" : {},
+    "assuranceInstanceReportType" : "assuranceInstanceReportType",
+    "assuranceInstanceReport" : {}
+  },
+  "assuranceCollateralItemAssuranceServiceWorkProduct" : "assuranceCollateralItemAssuranceServiceWorkProduct",
+  "assurancePreconditions" : "assurancePreconditions",
+  "assuranceRetrieveActionResponse" : "assuranceRetrieveActionResponse",
+  "assuranceRetrieveActionTaskRecord" : {},
+  "assuranceCollateralItemAssuranceServiceInputsandOuputs" : "assuranceCollateralItemAssuranceServiceInputsandOuputs",
+  "assuranceCollateralItemAssuranceServiceName" : "assuranceCollateralItemAssuranceServiceName",
+  "collateralItemAssurance" : "collateralItemAssurance",
+  "assuranceCollateralItemAssuranceServiceType" : "assuranceCollateralItemAssuranceServiceType",
+  "assurancePostconditions" : "assurancePostconditions",
+  "assuranceInstanceAnalysis" : {
+    "assuranceInstanceAnalysisReport" : {},
+    "assuranceInstanceAnalysisReportType" : "assuranceInstanceAnalysisReportType",
+    "assuranceInstanceAnalysisParameters" : "assuranceInstanceAnalysisParameters",
+    "assuranceInstanceAnalysisRecord" : {}
+  }
+}

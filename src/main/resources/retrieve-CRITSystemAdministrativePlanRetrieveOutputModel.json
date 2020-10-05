@@ -1,0 +1,19 @@
+{
+  "ITSystemAdministrativePlanRetrieveActionTaskRecord" : {},
+  "ITSystemAdministrativePlanAssignment" : "ITSystemAdministrativePlanAssignment",
+  "ITSystemAdministrativePlanRetrieveActionResponse" : "ITSystemAdministrativePlanRetrieveActionResponse",
+  "ITSystemAdministrativePlanPlan" : "ITSystemAdministrativePlanPlan",
+  "ITSystemAdministrativePlanInstanceAnalysis" : {
+    "ITSystemAdministrativePlanInstanceAnalysisData" : "ITSystemAdministrativePlanInstanceAnalysisData",
+    "ITSystemAdministrativePlanInstanceAnalysisReportType" : "ITSystemAdministrativePlanInstanceAnalysisReportType",
+    "ITSystemAdministrativePlanInstanceAnalysisReport" : {}
+  },
+  "ITSystemAdministrativePlanReference" : "IAPR748829",
+  "ITSystemAdministrativePlanInstanceReportRecord" : {
+    "ITSystemAdministrativePlanInstanceReportType" : "ITSystemAdministrativePlanInstanceReportType",
+    "ITSystemAdministrativePlanInstanceReport" : {},
+    "ITSystemAdministrativePlanInstanceReportData" : "ITSystemAdministrativePlanInstanceReportData"
+  },
+  "ITSystemAdministrativePlanRetrieveActionTaskReference" : "IAPRATR708618",
+  "itSystemAdministrativePlanBudgetType" : "itSystemAdministrativePlanBudgetType"
+}

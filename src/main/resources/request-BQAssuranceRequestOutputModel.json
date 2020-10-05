@@ -1,0 +1,16 @@
+{
+  "assuranceCollateralItemAssuranceServiceDescription" : "assuranceCollateralItemAssuranceServiceDescription",
+  "assuranceWorkSchedule" : "assuranceWorkSchedule",
+  "assuranceRequestRecordReference" : "ARRR730710",
+  "assuranceBusinessUnitEmployeeReference" : "ABUR795418",
+  "assuranceRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {},
+  "assuranceCollateralItemAssuranceServiceWorkProduct" : "assuranceCollateralItemAssuranceServiceWorkProduct",
+  "assuranceRequestActionTaskReference" : "ARATR757998",
+  "assurancePreconditions" : "assurancePreconditions",
+  "assuranceCollateralItemAssuranceServiceInputsandOuputs" : "assuranceCollateralItemAssuranceServiceInputsandOuputs",
+  "assuranceCollateralItemAssuranceServiceName" : "assuranceCollateralItemAssuranceServiceName",
+  "collateralItemAssurance" : "collateralItemAssurance",
+  "assuranceCollateralItemAssuranceServiceType" : "assuranceCollateralItemAssuranceServiceType",
+  "assurancePostconditions" : "assurancePostconditions"
+}

@@ -1,0 +1,24 @@
+{
+  "systemAdministrationServiceConfigurationRecord" : {
+    "systemAdministrationServiceConfigurationSetup" : {
+      "systemAdministrationServiceConfigurationParameter" : "systemAdministrationServiceConfigurationParameter"
+    },
+    "systemAdministrationServiceConfigurationSettingDescription" : "systemAdministrationServiceConfigurationSettingDescription",
+    "systemAdministrationServiceConfigurationSettingReference" : "700761",
+    "systemAdministrationServiceStatus" : "systemAdministrationServiceStatus",
+    "systemAdministrationServiceSubscription" : {
+      "systemAdministrationServiceSubscriberAccessProfile" : "systemAdministrationServiceSubscriberAccessProfile",
+      "systemAdministrationServiceSubscriberReference" : "769192"
+    },
+    "systemAdministrationServiceAgreement" : {
+      "systemAdministrationServiceAgreementReference" : "791202",
+      "systemAdministrationServiceAgreementTermsandConditions" : "systemAdministrationServiceAgreementTermsandConditions",
+      "systemAdministrationServiceUserReference" : "767210"
+    }
+  },
+  "systemAdministrationServicingSessionRecord" : {},
+  "systemAdministrationServicingSessionStatus" : "systemAdministrationServicingSessionStatus",
+  "systemAdministrationActivationActionTaskReference" : "SAATR758836",
+  "systemAdministrationServicingSessionReference" : "SSSR783215",
+  "systemAdministrationActivationActionTaskRecord" : {}
+}

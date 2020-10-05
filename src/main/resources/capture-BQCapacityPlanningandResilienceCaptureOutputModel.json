@@ -1,0 +1,15 @@
+{
+  "capacityPlanningandResilienceBusinessUnitEmployeeReference" : "CPARBUR707216",
+  "capacityPlanningandResilienceCapacityPlanningandResilienceServiceInputsandOuputs" : "capacityPlanningandResilienceCapacityPlanningandResilienceServiceInputsandOuputs",
+  "capacityPlanningandResilienceCaptureActionTaskRecord" : {},
+  "capacityPlanningandResilienceCaptureRecordReference" : "CPARCRR735796",
+  "capacityPlanningandResilience" : "capacityPlanningandResilience",
+  "capacityPlanningandResiliencePostconditions" : "capacityPlanningandResiliencePostconditions",
+  "capacityPlanningandResilienceWorkSchedule" : "capacityPlanningandResilienceWorkSchedule",
+  "capacityPlanningandResilienceCapacityPlanningandResilienceServiceWorkProduct" : "capacityPlanningandResilienceCapacityPlanningandResilienceServiceWorkProduct",
+  "capacityPlanningandResilienceCapacityPlanningandResilienceServiceDescription" : "capacityPlanningandResilienceCapacityPlanningandResilienceServiceDescription",
+  "capacityPlanningandResilienceCaptureActionTaskReference" : "CPARCATR763225",
+  "capacityPlanningandResiliencePreconditions" : "capacityPlanningandResiliencePreconditions",
+  "captureResponseRecord" : {},
+  "capacityPlanningandResilienceCapacityPlanningandResilienceServiceType" : "capacityPlanningandResilienceCapacityPlanningandResilienceServiceType"
+}

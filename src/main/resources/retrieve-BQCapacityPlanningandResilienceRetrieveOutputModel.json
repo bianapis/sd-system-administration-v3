@@ -1,0 +1,26 @@
+{
+  "capacityPlanningandResilienceInstanceReport" : {
+    "capacityPlanningandResilienceInstanceReport" : {},
+    "capacityPlanningandResilienceInstanceReportRecord" : {},
+    "capacityPlanningandResilienceInstanceReportParameters" : "capacityPlanningandResilienceInstanceReportParameters",
+    "capacityPlanningandResilienceInstanceReportType" : "capacityPlanningandResilienceInstanceReportType"
+  },
+  "capacityPlanningandResilienceBusinessUnitEmployeeReference" : "CPARBUR774983",
+  "capacityPlanningandResilienceCapacityPlanningandResilienceServiceInputsandOuputs" : "capacityPlanningandResilienceCapacityPlanningandResilienceServiceInputsandOuputs",
+  "capacityPlanningandResilienceRetrieveActionTaskRecord" : {},
+  "capacityPlanningandResilienceRetrieveActionResponse" : "capacityPlanningandResilienceRetrieveActionResponse",
+  "capacityPlanningandResilience" : "capacityPlanningandResilience",
+  "capacityPlanningandResiliencePostconditions" : "capacityPlanningandResiliencePostconditions",
+  "capacityPlanningandResilienceRetrieveActionTaskReference" : "CPARRATR701702",
+  "capacityPlanningandResilienceWorkSchedule" : "capacityPlanningandResilienceWorkSchedule",
+  "capacityPlanningandResilienceInstanceAnalysis" : {
+    "capacityPlanningandResilienceInstanceAnalysisReportType" : "capacityPlanningandResilienceInstanceAnalysisReportType",
+    "capacityPlanningandResilienceInstanceAnalysisReport" : {},
+    "capacityPlanningandResilienceInstanceAnalysisParameters" : "capacityPlanningandResilienceInstanceAnalysisParameters",
+    "capacityPlanningandResilienceInstanceAnalysisRecord" : {}
+  },
+  "capacityPlanningandResilienceCapacityPlanningandResilienceServiceWorkProduct" : "capacityPlanningandResilienceCapacityPlanningandResilienceServiceWorkProduct",
+  "capacityPlanningandResilienceCapacityPlanningandResilienceServiceDescription" : "capacityPlanningandResilienceCapacityPlanningandResilienceServiceDescription",
+  "capacityPlanningandResiliencePreconditions" : "capacityPlanningandResiliencePreconditions",
+  "capacityPlanningandResilienceCapacityPlanningandResilienceServiceType" : "capacityPlanningandResilienceCapacityPlanningandResilienceServiceType"
+}

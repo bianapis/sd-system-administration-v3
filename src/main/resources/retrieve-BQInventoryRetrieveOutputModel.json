@@ -1,0 +1,27 @@
+{
+  "businessService" : "businessService",
+  "inventoryRetrieveActionTaskReference" : "IRATR766797",
+  "inventoryServiceWorkProduct" : "inventoryServiceWorkProduct",
+  "inventoryInstanceAnalysis" : {
+    "inventoryInstanceAnalysisReport" : {},
+    "inventoryInstanceAnalysisRecord" : {},
+    "inventoryInstanceAnalysisParameters" : "inventoryInstanceAnalysisParameters",
+    "inventoryInstanceAnalysisReportType" : "inventoryInstanceAnalysisReportType"
+  },
+  "inventoryWorkSchedule" : "inventoryWorkSchedule",
+  "inventoryServiceName" : "inventoryServiceName",
+  "inventoryBusinessUnitEmployeeReference" : "IBUR776198",
+  "inventoryPostconditions" : "inventoryPostconditions",
+  "inventoryServiceInputsandOuputs" : "inventoryServiceInputsandOuputs",
+  "inventoryRetrieveActionTaskRecord" : {},
+  "inventoryRetrieveActionResponse" : "inventoryRetrieveActionResponse",
+  "inventoryServiceType" : "inventoryServiceType",
+  "inventoryServiceDescription" : "inventoryServiceDescription",
+  "inventoryPreconditions" : "inventoryPreconditions",
+  "inventoryInstanceReport" : {
+    "inventoryInstanceReportRecord" : {},
+    "inventoryInstanceReportType" : "inventoryInstanceReportType",
+    "inventoryInstanceReportParameters" : "inventoryInstanceReportParameters",
+    "inventoryInstanceReport" : {}
+  }
+}

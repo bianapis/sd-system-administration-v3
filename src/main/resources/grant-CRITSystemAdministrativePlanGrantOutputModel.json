@@ -1,0 +1,10 @@
+{
+  "ITSystemAdministrativePlanAssignment" : "ITSystemAdministrativePlanAssignment",
+  "ITSystemAdministrativePlanGrantActionTaskReference" : "IAPGATR707307",
+  "ITSystemAdministrativePlanPlan" : "ITSystemAdministrativePlanPlan",
+  "grantRequestResponseRecord" : {
+    "grantPermissionDetails" : "grantPermissionDetails"
+  },
+  "ITSystemAdministrativePlanGrantActionTaskRecord" : {},
+  "grantRequestRecordReference" : "GRRR721878"
+}

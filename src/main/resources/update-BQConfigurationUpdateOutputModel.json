@@ -1,0 +1,15 @@
+{
+  "configurationSystemsConfigurationAdministrationServiceWorkProduct" : "configurationSystemsConfigurationAdministrationServiceWorkProduct",
+  "configurationSystemsConfigurationAdministrationServiceName" : "configurationSystemsConfigurationAdministrationServiceName",
+  "systemsConfigurationAdministration" : "systemsConfigurationAdministration",
+  "configurationUpdateActionTaskRecord" : {},
+  "configurationPostconditions" : "configurationPostconditions",
+  "configurationPreconditions" : "configurationPreconditions",
+  "configurationBusinessUnitEmployeeReference" : "CBUR706567",
+  "configurationWorkSchedule" : "configurationWorkSchedule",
+  "configurationSystemsConfigurationAdministrationServiceInputsandOuputs" : "configurationSystemsConfigurationAdministrationServiceInputsandOuputs",
+  "updateResponseRecord" : {},
+  "configurationSystemsConfigurationAdministrationServiceType" : "configurationSystemsConfigurationAdministrationServiceType",
+  "configurationSystemsConfigurationAdministrationServiceDescription" : "configurationSystemsConfigurationAdministrationServiceDescription",
+  "configurationUpdateActionTaskReference" : "CUATR770044"
+}

@@ -1,0 +1,27 @@
+{
+  "configurationSystemsConfigurationAdministrationServiceWorkProduct" : "configurationSystemsConfigurationAdministrationServiceWorkProduct",
+  "configurationSystemsConfigurationAdministrationServiceName" : "configurationSystemsConfigurationAdministrationServiceName",
+  "configurationInstanceAnalysis" : {
+    "configurationInstanceAnalysisRecord" : {},
+    "configurationInstanceAnalysisReportType" : "configurationInstanceAnalysisReportType",
+    "configurationInstanceAnalysisParameters" : "configurationInstanceAnalysisParameters",
+    "configurationInstanceAnalysisReport" : {}
+  },
+  "systemsConfigurationAdministration" : "systemsConfigurationAdministration",
+  "configurationRetrieveActionTaskReference" : "CRATR728623",
+  "configurationPostconditions" : "configurationPostconditions",
+  "configurationPreconditions" : "configurationPreconditions",
+  "configurationBusinessUnitEmployeeReference" : "CBUR768246",
+  "configurationWorkSchedule" : "configurationWorkSchedule",
+  "configurationSystemsConfigurationAdministrationServiceInputsandOuputs" : "configurationSystemsConfigurationAdministrationServiceInputsandOuputs",
+  "configurationRetrieveActionResponse" : "configurationRetrieveActionResponse",
+  "configurationSystemsConfigurationAdministrationServiceType" : "configurationSystemsConfigurationAdministrationServiceType",
+  "configurationSystemsConfigurationAdministrationServiceDescription" : "configurationSystemsConfigurationAdministrationServiceDescription",
+  "configurationRetrieveActionTaskRecord" : {},
+  "configurationInstanceReport" : {
+    "configurationInstanceReportRecord" : {},
+    "configurationInstanceReportParameters" : "configurationInstanceReportParameters",
+    "configurationInstanceReportType" : "configurationInstanceReportType",
+    "configurationInstanceReport" : {}
+  }
+}

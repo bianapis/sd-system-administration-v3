@@ -1,0 +1,16 @@
+{
+  "configurationRequestActionTaskRecord" : {},
+  "configurationSystemsConfigurationAdministrationServiceWorkProduct" : "configurationSystemsConfigurationAdministrationServiceWorkProduct",
+  "configurationSystemsConfigurationAdministrationServiceName" : "configurationSystemsConfigurationAdministrationServiceName",
+  "systemsConfigurationAdministration" : "systemsConfigurationAdministration",
+  "requestResponseRecord" : {},
+  "configurationPostconditions" : "configurationPostconditions",
+  "configurationRequestActionTaskReference" : "CRATR768128",
+  "configurationPreconditions" : "configurationPreconditions",
+  "configurationBusinessUnitEmployeeReference" : "CBUR720232",
+  "configurationRequestRecordReference" : "CRRR732425",
+  "configurationWorkSchedule" : "configurationWorkSchedule",
+  "configurationSystemsConfigurationAdministrationServiceInputsandOuputs" : "configurationSystemsConfigurationAdministrationServiceInputsandOuputs",
+  "configurationSystemsConfigurationAdministrationServiceType" : "configurationSystemsConfigurationAdministrationServiceType",
+  "configurationSystemsConfigurationAdministrationServiceDescription" : "configurationSystemsConfigurationAdministrationServiceDescription"
+}

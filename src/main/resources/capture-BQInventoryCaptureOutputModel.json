@@ -1,0 +1,16 @@
+{
+  "businessService" : "businessService",
+  "inventoryServiceWorkProduct" : "inventoryServiceWorkProduct",
+  "inventoryCaptureActionTaskRecord" : {},
+  "inventoryWorkSchedule" : "inventoryWorkSchedule",
+  "inventoryServiceName" : "inventoryServiceName",
+  "inventoryBusinessUnitEmployeeReference" : "IBUR759034",
+  "inventoryPostconditions" : "inventoryPostconditions",
+  "inventoryCaptureRecordReference" : "ICRR723478",
+  "inventoryServiceInputsandOuputs" : "inventoryServiceInputsandOuputs",
+  "inventoryServiceType" : "inventoryServiceType",
+  "inventoryCaptureActionTaskReference" : "ICATR743823",
+  "inventoryServiceDescription" : "inventoryServiceDescription",
+  "captureResponseRecord" : {},
+  "inventoryPreconditions" : "inventoryPreconditions"
+}
